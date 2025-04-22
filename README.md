@@ -1,18 +1,3 @@
-<!-- ### Hey there, nice to meet you👋
-
-I'm Hendrik, a fullstack software engineer from Papenburg, Germany!
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praktii&theme=dracula&hide_title=true&disable_animations=true&count_private=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praktii&theme=dracula&layout=compact" />
-</a> -->
-
-<!-- Banner Image -->
-
 # Hey there, nice to meet you - i'm Hendrik👋
 
 🎯 a Software Developer based in Papenburg, Germany  
@@ -36,9 +21,9 @@ I'm Hendrik, a fullstack software engineer from Papenburg, Germany!
 ## 🚀 Featured Projects
 
 ### [TranslationViewerExtension](https://github.com/praktii/TranslationViewerExtension)
-This is a VSCode Extension to get the real values behind translation keys.
-🤩 Works with various coding languages
-📚 Multilanguage support (showing multiple translationvalues at onece)
+This is a VSCode Extension to get the real values behind translation keys.  
+🤩 Works with various coding languages  
+📚 Multilanguage support (showing multiple translationvalues at onece)  
 
 ### [BetterER](https://github.com/praktii/BetterER)
 An intuitive tool for creating Entity-Relationship diagrams with ease.  

@@ -35,6 +35,11 @@ I'm Hendrik, a fullstack software engineer from Papenburg, Germany!
 
 ## 🚀 Featured Projects
 
+### [TranslationViewerExtension](https://github.com/praktii/TranslationViewerExtension)
+This is a VSCode Extension to get the real values behind translation keys.
+🤩 Works with various coding languages
+📚 Multilanguage support (showing multiple translationvalues at onece)
+
 ### [BetterER](https://github.com/praktii/BetterER)
 An intuitive tool for creating Entity-Relationship diagrams with ease.  
 🛠️ Built with C# and .NET  
